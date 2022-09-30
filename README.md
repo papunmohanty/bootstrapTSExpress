@@ -17,4 +17,4 @@ $ npm i -D @types/mocha @types/chai @types/node @types/supertest @types/express 
 # Initilize typescript configuration
 ```bash
 $ tsc --init
-```# bootstrapTSExpress
+```
